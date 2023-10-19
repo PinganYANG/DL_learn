@@ -57,7 +57,7 @@ YOLOv3负责用1个Anchor负责一个GT，v4中利用多个Anchor负责一个GT�
 
 **2.Eliminate_grid sensitivity**
 
-![image-20231019084938008](C:\Users\cimum\AppData\Roaming\Typora\typora-user-images\image-20231019084938008.png)
+![image-20231019084938008](https://github.com/PinganYANG/DL_learn/blob/main/image-20231019084938008.png)
 
 **3.CIoU-loss**
 
